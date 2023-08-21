@@ -1,6 +1,6 @@
 
 body{
-    background: linear-gradient(0.25turn, #a32121, #280069, #35199c);}
+    background: linear-gradient(0.25turn, #005bc2, #280069, #35199c);}
 }
 
 .display-3{
@@ -9,5 +9,5 @@ filter: drop-shadow(2px 2px 5px cyan);
 }
 
 form{
-    filter: drop-shadow( 2px 2px 5px rgba(53, 0, 97, 0.425));
+    filter: drop-shadow( 2px 2px 5px rgba(0, 42, 179, 0.425));
 }
